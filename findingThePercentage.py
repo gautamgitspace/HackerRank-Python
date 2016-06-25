@@ -4,7 +4,7 @@ longString = str()
 for line in sys.stdin:
     longString = longString + line.rstrip() + " "
 lst = longString.split()
-#print lst
+print lst
 # #print 'Number of students', lst[0]
 # numberOfStudents = lst[0]
 posOfStudentOfInterest = 4*int(lst[0]) + 1
