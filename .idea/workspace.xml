@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60a95bb-a36f-458c-9524-d9338dfc3b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stringMutations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stringSplitAndJoin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stringMutations.py" afterPath="$PROJECT_DIR$/stringMutations.py" />
     </list>
     <ignored path="HackerRank Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="stringMutations.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stringMutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,24 +141,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.stringSplitAndJoin">
-    <configuration default="false" name="pythonSets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.stringMutations">
     <configuration default="false" name="secondLargestNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,6 +206,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringSplitAndJoin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="stringMutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HackerRank Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringMutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -364,19 +362,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pythonSets" />
-      <item index="1" class="java.lang.String" itemvalue="Python.secondLargestNumber" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pythonNestedLists" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sWAPcASE" />
-      <item index="4" class="java.lang.String" itemvalue="Python.stringSplitAndJoin" />
+      <item index="0" class="java.lang.String" itemvalue="Python.secondLargestNumber" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pythonNestedLists" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sWAPcASE" />
+      <item index="3" class="java.lang.String" itemvalue="Python.stringSplitAndJoin" />
+      <item index="4" class="java.lang.String" itemvalue="Python.stringMutations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.stringSplitAndJoin" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sWAPcASE" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pythonNestedLists" />
-        <item index="3" class="java.lang.String" itemvalue="Python.secondLargestNumber" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pythonSets" />
+        <item index="0" class="java.lang.String" itemvalue="Python.stringMutations" />
+        <item index="1" class="java.lang.String" itemvalue="Python.stringSplitAndJoin" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sWAPcASE" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pythonNestedLists" />
+        <item index="4" class="java.lang.String" itemvalue="Python.secondLargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -525,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stringMutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
