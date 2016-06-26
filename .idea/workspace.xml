@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60a95bb-a36f-458c-9524-d9338dfc3b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonLists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/printFunction.py" afterPath="$PROJECT_DIR$/printFunction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythontuples.py" />
     </list>
     <ignored path="HackerRank Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pythonLists.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pythonLists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonLists.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -35,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findingThePercentageUsingDict.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/findingThePercentageUsingDict.py">
+      <file leaf-file-name="pythontuples.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythontuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -76,6 +74,7 @@
         <option value="$PROJECT_DIR$/printFunction.py" />
         <option value="$PROJECT_DIR$/findingThePercentageUsingDict.py" />
         <option value="$PROJECT_DIR$/pythonLists.py" />
+        <option value="$PROJECT_DIR$/pythontuples.py" />
       </list>
     </option>
   </component>
@@ -155,7 +154,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.pythonLists">
+  <component name="RunManager" selected="Python.pythontuples">
     <configuration default="false" name="findingThePercentage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,6 +219,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pythontuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HackerRank Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythontuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -358,18 +374,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.findingThePercentage" />
       <item index="1" class="java.lang.String" itemvalue="Python.findingThePercentageUsingDict" />
       <item index="2" class="java.lang.String" itemvalue="Python.printFunction" />
       <item index="3" class="java.lang.String" itemvalue="Python.pythonLists" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pythontuples" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.pythonLists" />
-        <item index="1" class="java.lang.String" itemvalue="Python.findingThePercentageUsingDict" />
-        <item index="2" class="java.lang.String" itemvalue="Python.printFunction" />
-        <item index="3" class="java.lang.String" itemvalue="Python.findingThePercentage" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.pythontuples" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pythonLists" />
+        <item index="2" class="java.lang.String" itemvalue="Python.findingThePercentageUsingDict" />
+        <item index="3" class="java.lang.String" itemvalue="Python.printFunction" />
+        <item index="4" class="java.lang.String" itemvalue="Python.findingThePercentage" />
       </list>
     </recent_temporary>
   </component>
@@ -461,6 +479,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythontuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
