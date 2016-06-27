@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60a95bb-a36f-458c-9524-d9338dfc3b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textAlignment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textFillAndWrap.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HackerRank Python.iws" />
@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="textAlignment.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/textAlignment.py">
+      <file leaf-file-name="textFillAndWrap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/textFillAndWrap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="30" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="6" />
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -66,6 +66,7 @@
         <option value="$PROJECT_DIR$/findString.py" />
         <option value="$PROJECT_DIR$/stringValidators.py" />
         <option value="$PROJECT_DIR$/textAlignment.py" />
+        <option value="$PROJECT_DIR$/textFillAndWrap.py" />
       </list>
     </option>
   </component>
@@ -145,24 +146,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.textAlignment">
-    <configuration default="false" name="stringSplitAndJoin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringSplitAndJoin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.textFillAndWrap">
     <configuration default="false" name="stringMutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,6 +211,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/textAlignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="textFillAndWrap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HackerRank Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/textFillAndWrap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -366,19 +367,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.stringSplitAndJoin" />
-      <item index="1" class="java.lang.String" itemvalue="Python.stringMutations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.findString" />
-      <item index="3" class="java.lang.String" itemvalue="Python.stringValidators" />
-      <item index="4" class="java.lang.String" itemvalue="Python.textAlignment" />
+      <item index="0" class="java.lang.String" itemvalue="Python.stringMutations" />
+      <item index="1" class="java.lang.String" itemvalue="Python.findString" />
+      <item index="2" class="java.lang.String" itemvalue="Python.stringValidators" />
+      <item index="3" class="java.lang.String" itemvalue="Python.textAlignment" />
+      <item index="4" class="java.lang.String" itemvalue="Python.textFillAndWrap" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.textAlignment" />
-        <item index="1" class="java.lang.String" itemvalue="Python.stringValidators" />
-        <item index="2" class="java.lang.String" itemvalue="Python.findString" />
-        <item index="3" class="java.lang.String" itemvalue="Python.stringMutations" />
-        <item index="4" class="java.lang.String" itemvalue="Python.stringSplitAndJoin" />
+        <item index="0" class="java.lang.String" itemvalue="Python.textFillAndWrap" />
+        <item index="1" class="java.lang.String" itemvalue="Python.textAlignment" />
+        <item index="2" class="java.lang.String" itemvalue="Python.stringValidators" />
+        <item index="3" class="java.lang.String" itemvalue="Python.findString" />
+        <item index="4" class="java.lang.String" itemvalue="Python.stringMutations" />
       </list>
     </recent_temporary>
   </component>
@@ -540,7 +541,15 @@
     <entry file="file://$PROJECT_DIR$/textAlignment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
-          <caret line="30" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="6" />
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textFillAndWrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
         </state>
       </provider>
