@@ -7,4 +7,6 @@ Code for the following subdomains lie in the root directory:
 2. Data Types
 3. Strings
 
-Code for all other subdomains lie in their respective directories.
+Code for all other subdomains lie in their respective directories:
+
+1. Sets
