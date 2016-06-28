@@ -1,1 +1,2 @@
-for i in range(1,int(raw_input())+1): print((10**i-1)**2//81)
+for i in range(1, int(raw_input())):
+    print (i*(10**i -1)//9)

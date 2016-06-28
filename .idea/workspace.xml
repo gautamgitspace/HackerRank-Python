@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60a95bb-a36f-458c-9524-d9338dfc3b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/polarCoordinates.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/triangleQuest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/triangleQuest2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Math/triangleQuest.py" afterPath="$PROJECT_DIR$/Math/triangleQuest.py" />
     </list>
     <ignored path="HackerRank Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="triangleQuest.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Math/triangleQuest.py">
+      <file leaf-file-name="triangleQuest2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Math/triangleQuest2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triangleQuest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Math/triangleQuest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -194,24 +203,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.triangleQuest">
-    <configuration default="false" name="setMutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/setMutations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.triangleQuest (1)">
     <configuration default="false" name="checkSubset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,6 +256,23 @@
       <method />
     </configuration>
     <configuration default="false" name="triangleQuest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HackerRank Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/triangleQuest2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="triangleQuest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -415,19 +424,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.setMutations" />
-      <item index="1" class="java.lang.String" itemvalue="Python.checkSubset" />
-      <item index="2" class="java.lang.String" itemvalue="Python.strictSuperSet" />
-      <item index="3" class="java.lang.String" itemvalue="Python.polarCoordinates" />
-      <item index="4" class="java.lang.String" itemvalue="Python.triangleQuest" />
+      <item index="0" class="java.lang.String" itemvalue="Python.checkSubset" />
+      <item index="1" class="java.lang.String" itemvalue="Python.strictSuperSet" />
+      <item index="2" class="java.lang.String" itemvalue="Python.polarCoordinates" />
+      <item index="3" class="java.lang.String" itemvalue="Python.triangleQuest" />
+      <item index="4" class="java.lang.String" itemvalue="Python.triangleQuest (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.triangleQuest" />
-        <item index="1" class="java.lang.String" itemvalue="Python.polarCoordinates" />
-        <item index="2" class="java.lang.String" itemvalue="Python.strictSuperSet" />
-        <item index="3" class="java.lang.String" itemvalue="Python.checkSubset" />
-        <item index="4" class="java.lang.String" itemvalue="Python.setMutations" />
+        <item index="0" class="java.lang.String" itemvalue="Python.triangleQuest (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.triangleQuest" />
+        <item index="2" class="java.lang.String" itemvalue="Python.polarCoordinates" />
+        <item index="3" class="java.lang.String" itemvalue="Python.strictSuperSet" />
+        <item index="4" class="java.lang.String" itemvalue="Python.checkSubset" />
       </list>
     </recent_temporary>
   </component>
@@ -754,10 +763,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/triangleQuest.py">
+    <entry file="file://$PROJECT_DIR$/Math/triangleQuest2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/triangleQuest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
           <folding />
         </state>
       </provider>
