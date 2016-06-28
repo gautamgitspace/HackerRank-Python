@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60a95bb-a36f-458c-9524-d9338dfc3b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/triangleQuest2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Math/triangleQuest.py" afterPath="$PROJECT_DIR$/Math/triangleQuest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itertools/combinations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itertools/combinationsWithRep.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itertools/itertoolsProduct.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itertools/permutations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itertools/stringCompress.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HackerRank Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="triangleQuest2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/triangleQuest2.py">
+      <file leaf-file-name="stringCompress.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itertools/stringCompress.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="triangleQuest.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Math/triangleQuest.py">
+      <file leaf-file-name="itertoolsProduct.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itertools/itertoolsProduct.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            <state relative-caret-position="60">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -96,6 +100,11 @@
         <option value="$PROJECT_DIR$/Sets/strictSuperSet.py" />
         <option value="$PROJECT_DIR$/Math/polarCoordinates.py" />
         <option value="$PROJECT_DIR$/Math/triangleQuest.py" />
+        <option value="$PROJECT_DIR$/itertools/permutations.py" />
+        <option value="$PROJECT_DIR$/itertools/combinations.py" />
+        <option value="$PROJECT_DIR$/itertools/combinationsWithRep.py" />
+        <option value="$PROJECT_DIR$/itertools/itertoolsProduct.py" />
+        <option value="$PROJECT_DIR$/itertools/stringCompress.py" />
       </list>
     </option>
   </component>
@@ -177,6 +186,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="itertools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerRank Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerRank Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Sets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,89 +225,91 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.triangleQuest (1)">
-    <configuration default="false" name="checkSubset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.stringCompress">
+    <configuration default="false" name="itertoolsProduct" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/checkSubset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools/itertoolsProduct.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="strictSuperSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/strictSuperSet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools/permutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="polarCoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/polarCoordinates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools/combinations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="triangleQuest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="combinationsWithRep" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/triangleQuest2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools/combinationsWithRep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="triangleQuest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="stringCompress" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/triangleQuest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools/stringCompress.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -424,19 +449,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.checkSubset" />
-      <item index="1" class="java.lang.String" itemvalue="Python.strictSuperSet" />
-      <item index="2" class="java.lang.String" itemvalue="Python.polarCoordinates" />
-      <item index="3" class="java.lang.String" itemvalue="Python.triangleQuest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.triangleQuest (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.itertoolsProduct" />
+      <item index="1" class="java.lang.String" itemvalue="Python.permutations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.combinations" />
+      <item index="3" class="java.lang.String" itemvalue="Python.combinationsWithRep" />
+      <item index="4" class="java.lang.String" itemvalue="Python.stringCompress" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.triangleQuest (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.triangleQuest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.polarCoordinates" />
-        <item index="3" class="java.lang.String" itemvalue="Python.strictSuperSet" />
-        <item index="4" class="java.lang.String" itemvalue="Python.checkSubset" />
+        <item index="0" class="java.lang.String" itemvalue="Python.stringCompress" />
+        <item index="1" class="java.lang.String" itemvalue="Python.itertoolsProduct" />
+        <item index="2" class="java.lang.String" itemvalue="Python.combinationsWithRep" />
+        <item index="3" class="java.lang.String" itemvalue="Python.combinations" />
+        <item index="4" class="java.lang.String" itemvalue="Python.permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +490,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48300284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38920453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -739,14 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sets/strictSuperSet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sets/checkSubset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -755,10 +772,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/polarCoordinates.py">
+    <entry file="file://$PROJECT_DIR$/Sets/strictSuperSet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/triangleQuest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -771,10 +796,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/triangleQuest.py">
+    <entry file="file://$PROJECT_DIR$/Math/polarCoordinates.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools/permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools/combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools/combinationsWithRep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools/itertoolsProduct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itertools/stringCompress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
