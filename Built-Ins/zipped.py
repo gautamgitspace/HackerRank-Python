@@ -10,8 +10,7 @@ numCourses = first[1]
 numStudents = first[0]
 
 for i in range(numCourses):
-    marks = raw_input()
-    finalList.append(marks.split())
+    finalList.append(raw_input().split())
 anotherList = zip(*finalList)
 
 for i in range(numStudents):
