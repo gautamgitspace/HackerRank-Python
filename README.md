@@ -12,5 +12,7 @@ Code for all other subdomains lie in their respective directories:
 1. Sets
 2. Math
 3. Itertools
+4. Collections
+5. Built-Ins
 
 Fork and study. Happy learning!
