@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 def missing_drone(drones):
     unique_id = 0
     for drone in drones:
