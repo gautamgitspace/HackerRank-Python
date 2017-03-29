@@ -1,6 +1,6 @@
 def findFraudolentTraders(datafeed):
     flagged_trades = set()
-    trades = dict()
+    trades = {}
     current_price = None
     for feed in datafeed:
         vals = feed.split("|")
@@ -20,7 +20,7 @@ def findFraudolentTraders(datafeed):
                         if fraudolent:
                             flagged_trades.add((x, trader_name))
         else:
-        #CASE - DATA EXISTS IN FEEF TO POPULATE (pull name, amont and buy/sell clause)
+        #CASE - DATA EXISTS IN FEED TO POPULATE (pull name, amont and buy/sell clause)
             trader_name = vals[1]
             isBuy = len(vals[2]) == 3
             amount = int(vals[3])
@@ -54,7 +54,7 @@ feed1 = """0|1000
 80|1100
 81|1200"""
 datafeed1 = feed1.split("\n")
-findFraudolentTraders(datafeed1)
+#print findFraudolentTraders(datafeed1)
 
 feed2 = """0|20
 0|Kristi|SELL|3000
@@ -74,4 +74,5 @@ feed2 = """0|20
 17|25"""
 
 datafeed2 = feed2.split("\n")
-print findFraudolentTraders(datafeed2)
+var = findFraudolentTraders(datafeed2)
+print ' '.join(var[0:2])
